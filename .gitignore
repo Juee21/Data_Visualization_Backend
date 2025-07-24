@@ -1,0 +1,34 @@
+# Java
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+/logs/
+*.log
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+*.iml
+.idea/
+
+# VS Code
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+
+# Others
+bin/
